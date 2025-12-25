@@ -1,6 +1,6 @@
 # N8N designs for a digital twin that generates full academic reports
 
-You’ve got the right instincts in your files: chunked generation, templating, and a dedicated rendering engine. Below are several concrete N8N architectures you can choose from, each capable of producing text, tables, figures, and images under token and formatting constraints. I’ll keep them crisp, actionable, and extensible.
+We’ve got the right instincts in your files: chunked generation, templating, and a dedicated rendering engine. Below are several concrete N8N architectures we can choose from, each capable of producing text, tables, figures, and images under token and formatting constraints. I’ll keep them crisp, actionable, and extensible.
 
 ---
 
@@ -273,11 +273,6 @@ You’ve got the right instincts in your files: chunked generation, templating, 
 
 ## Recommendations
 
-- **If you want the most professional academic output:** Choose Design B (LaTeX via Docker). It’ll respect academic conventions: TOC, lists of figures/tables, citations.
-- **If you want speed and flexibility with strong layout control:** Choose Design A (HTML + Puppeteer). CSS gives you fast styling and reliable page control.
-- **If you want quick iteration with low ops overhead:** Choose Design C (Markdown + Pandoc).
-
-Tell me which design fits your infrastructure and deadlines. I’ll generate:
-- The exact N8N node list, wiring order, and templates.
-- Prompts for each chapter and asset.
-- Validation code and rendering scripts (Node/Python or Dockerfile) to make it turnkey.
+- **If we want the most professional academic output:** Choose Design B (LaTeX via Docker). It’ll respect academic conventions: TOC, lists of figures/tables, citations.
+- **If we want speed and flexibility with strong layout control:** Choose Design A (HTML + Puppeteer). CSS gives you fast styling and reliable page control.
+- **If we want quick iteration with low ops overhead:** Choose Design C (Markdown + Pandoc).
