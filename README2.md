@@ -1,6 +1,6 @@
 # N8N designs for a digital twin that generates full academic reports
 
-We’ve got the right instincts in your files: chunked generation, templating, and a dedicated rendering engine. Below are several concrete N8N architectures we can choose from, each capable of producing text, tables, figures, and images under token and formatting constraints. I’ll keep them crisp, actionable, and extensible.
+We’ve got the right instincts in the files: chunked generation, templating, and a dedicated rendering engine. Below are several concrete N8N architectures we can choose from, each capable of producing text, tables, figures, and images under token and formatting constraints. I’ll keep them crisp, actionable, and extensible.
 
 ---
 
